@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kayla
-- 👀 I’m interested in data science, machine learning, and software development.
-- 🌱 I’m currently learning machine learning and web development
+- 👀 I’m interested in software engineering, data science, and machine learning.
+- 🌱 I’m currently learning Spring Boot
 
 
 <!---
