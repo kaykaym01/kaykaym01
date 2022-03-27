@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kayla
-- 👀 I’m interested in frontend development.
-- 🌱 I’m currently learning how to rollerskate.
+- 👀 I’m interested in software engineering.
+- 🌱 I’m currently learning front-end development.
 
 <!---
 kaykaym01/kaykaym01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
