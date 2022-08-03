@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Kayla
-- 👀 Software Engineer.
 - 🌱 On the road to becoming a full-stack developer.
 
 <!---
