@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Kayla
 - 🌱 On the road to becoming a full-stack developer.
+- Currently learning React
 
 <!---
 kaykaym01/kaykaym01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
